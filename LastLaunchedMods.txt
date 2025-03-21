@@ -1,0 +1,16 @@
+AlchemistNPCLite 1.9.7
+BossChecklist 2.2.2
+CalamityMod 2.0.4.6
+CalamityModMusic 2.0.4.3
+Fargowiltas 3.3.5.5
+GemToGem 1.2.5
+ImproveGame 1.8.1.3
+LowHealthEffects 1.0.4
+MagicStorage 0.6.0.3
+NoMoreTombs 2.1
+OmniSwing 4.0.0
+OreExcavator 0.8.9
+PlatformHelper 4.1.4
+RecipeBrowser 0.10.8.3
+SerousCommonLib 1.0.5.1
+UnCalamityModMusic 2.0.0.1
